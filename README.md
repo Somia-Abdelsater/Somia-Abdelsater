@@ -5,7 +5,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **Data Project**
+- 👯 I’m looking to collaborate on **Data Projects**
 
 - 🤝 I’m currently learning **AI**
 
